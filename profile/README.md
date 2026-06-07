@@ -2,7 +2,7 @@
 
 **(WIP)**
 
-A beautiful, local-first logging or journaling that matters most application built with Flutter.
+A beautiful, local-first logging or journaling that matters most. (built with Flutter).
 
 <img width="1309" height="848" alt="dashboard" src="https://github.com/user-attachments/assets/c8fd92ec-f780-4628-8df4-3a2e120603d6" />
 
